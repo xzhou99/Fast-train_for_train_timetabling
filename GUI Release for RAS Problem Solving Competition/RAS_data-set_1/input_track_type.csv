@@ -1,0 +1,7 @@
+track_type_code,name,max_speed
+0,Main Track,80
+1,Main Track,80
+2,Main Track,80
+SW,Switch,15
+S,Siding,20
+C,Crossover,15

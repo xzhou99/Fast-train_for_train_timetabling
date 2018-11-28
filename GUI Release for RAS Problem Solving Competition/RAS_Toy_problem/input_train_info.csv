@@ -1,0 +1,4 @@
+train_header,entry_time,origin_node_id,destination_node_id,direction,speed_multiplier,train_length,tob,hazmat,sa_status_at_origin,terminal_want_time
+C1,0,0,12,EASTBOUND,0.75,1,75,NO,0,90
+A1,20,0,12,EASTBOUND,1,2.1,75,NO,0,150
+B1,0,12,0,WESTBOUND,0.85,1,75,NO,-120,80

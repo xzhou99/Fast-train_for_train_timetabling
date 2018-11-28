@@ -1,0 +1,1 @@
+Train A1: <movement arc='(5,6)' entry='107.0' exit='117.0'/>: Previous exit time 117.0 > entry time 107.0.

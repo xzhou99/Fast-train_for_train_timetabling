@@ -1,0 +1,7 @@
+A_node_id,B_node_id,start_time_in_min,end_time_in_min,speed_limit_inMilePerHour,capacity,scenarioid,Occurrence_Prob
+21,22,480,600,0,0,0,1
+22,25,480,600,0,0,0,1
+25,26,480,600,0,0,0,1
+26,27,480,600,0,0,0,1
+27,28,480,600,0,0,0,1
+48,54,120,360,0,0,0,1

@@ -1,0 +1,15 @@
+Number of Nodes = 10
+Number of Links = 11
+Number of Trains = 4
+Computational time:,0,Iteration:, 1,Lower bound in Minute:,13.000,Upper bound in Minute:,103.000,Lower bound:,13.000,Upper bound:,103.000,Total Trip Price:,13.000,Total Resource Price (Resource Cost):,0.000,Total Travel Time:,129.000,Optimality gap:,0.874
+Computational time:,0,Iteration:, 2,Lower bound in Minute:,20.500,Upper bound in Minute:,103.000,Lower bound:,20.500,Upper bound:,103.000,Total Trip Price:,31.500,Total Resource Price (Resource Cost):,11.000,Total Travel Time:,132.000,Optimality gap:,0.801
+Computational time:,0,Iteration:, 3,Lower bound in Minute:,23.167,Upper bound in Minute:,103.000,Lower bound:,23.167,Upper bound:,103.000,Total Trip Price:,39.500,Total Resource Price (Resource Cost):,16.333,Total Travel Time:,133.000,Optimality gap:,0.775
+Computational time:,0,Iteration:, 4,Lower bound in Minute:,26.500,Upper bound in Minute:,75.000,Lower bound:,26.500,Upper bound:,75.000,Total Trip Price:,44.833,Total Resource Price (Resource Cost):,18.333,Total Travel Time:,142.000,Optimality gap:,0.647
+Computational time:,0,Iteration:, 5,Lower bound in Minute:,26.717,Upper bound in Minute:,75.000,Lower bound:,26.717,Upper bound:,75.000,Total Trip Price:,47.200,Total Resource Price (Resource Cost):,20.483,Total Travel Time:,145.000,Optimality gap:,0.644
+Computational time:,0,Iteration:, 6,Lower bound in Minute:,26.717,Upper bound in Minute:,75.000,Lower bound:,26.717,Upper bound:,75.000,Total Trip Price:,46.850,Total Resource Price (Resource Cost):,20.650,Total Travel Time:,142.000,Optimality gap:,0.644
+Computational time:,0,Iteration:, 7,Lower bound in Minute:,26.717,Upper bound in Minute:,75.000,Lower bound:,26.717,Upper bound:,75.000,Total Trip Price:,48.350,Total Resource Price (Resource Cost):,21.936,Total Travel Time:,143.000,Optimality gap:,0.644
+Computational time:,0,Iteration:, 8,Lower bound in Minute:,26.717,Upper bound in Minute:,75.000,Lower bound:,26.717,Upper bound:,75.000,Total Trip Price:,48.751,Total Resource Price (Resource Cost):,22.263,Total Travel Time:,141.000,Optimality gap:,0.644
+Computational time:,0,Iteration:, 9,Lower bound in Minute:,26.717,Upper bound in Minute:,75.000,Lower bound:,26.717,Upper bound:,75.000,Total Trip Price:,48.989,Total Resource Price (Resource Cost):,22.485,Total Travel Time:,143.000,Optimality gap:,0.644
+Computational time:,0,Iteration:, 10,Lower bound in Minute:,26.837,Upper bound in Minute:,75.000,Lower bound:,26.837,Upper bound:,75.000,Total Trip Price:,49.522,Total Resource Price (Resource Cost):,22.685,Total Travel Time:,140.000,Optimality gap:,0.642
+Computational time:,0,Iteration:, 11,Lower bound in Minute:,26.837,Upper bound in Minute:,75.000,Lower bound:,26.837,Upper bound:,75.000,Total Trip Price:,49.580,Total Resource Price (Resource Cost):,22.867,Total Travel Time:,143.000,Optimality gap:,0.642
+Computational time:,0,Iteration:, 12,Lower bound in Minute:,27.000,Upper bound in Minute:,27.000,Lower bound:,27.000,Upper bound:,27.000,Total Trip Price:,49.950,Total Resource Price (Resource Cost):,22.950,Total Travel Time:,143.000,Optimality gap:,-0.000

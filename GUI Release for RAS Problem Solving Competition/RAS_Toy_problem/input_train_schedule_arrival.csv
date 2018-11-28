@@ -1,0 +1,7 @@
+train_header,node_id,schedule_arrival_time
+C1,6,50
+C1,12,100
+A1,6,40
+A1,12,80
+B1,6,-50
+B1,0,90

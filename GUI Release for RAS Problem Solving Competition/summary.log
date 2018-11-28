@@ -1,0 +1,7 @@
+---DTALite: A Fast Open-Source DTA Simulation Engine---
+Version 0.98, Release Date 03/30/2012.
+Simulation Horizon (min) = 600
+Departure Time Interval (min) = 15
+Number of Iterations = 10
+Traffic Flow Model =  Point Queue Model
+Step 1: Reading file input_node.csv...

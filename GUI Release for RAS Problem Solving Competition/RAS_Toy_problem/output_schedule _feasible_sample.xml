@@ -1,0 +1,43 @@
+###########################################################################
+<solution territory='RAS DATA SET TOY'>
+	<trains>
+		<train id='A1'>
+			<movements>
+				<movement arc='(0,1)' entry='1200' exit='2010'/>
+				<movement arc='(1,3)' entry='2010' exit='2055'/>
+				<movement arc='(3,5)' entry='2055' exit='2100'/>
+				<movement arc='(5,6)' entry='2100' exit='3000'/>
+				<movement arc='(6,7)' entry='3000' exit='3810'/>
+				<movement arc='(7,8)' entry='3810' exit='3855'/>
+				<movement arc='(8,11)' entry='3855' exit='3900'/>
+				<movement arc='(11,12)' entry='3900' exit='4800'/>
+				<destination entry='4800'/>
+			</movements>
+		</train>
+		<train id='B1'>
+			<movements>
+				<movement arc='(12,11)' entry='1200' exit='2410.084'/>
+				<movement arc='(11,10)' entry='2410.084' exit='2482.084'/>
+				<movement arc='(10,9)' entry='2482.084' exit='4155'/>
+				<movement arc='(9,7)' entry='4155' exit='4227'/>
+				<movement arc='(7,6)' entry='4227' exit='5316.075'/>
+				<movement arc='(6,5)' entry='5316.075' exit='6526.159'/>
+				<movement arc='(5,3)' entry='6526.159' exit='6586.663'/>
+				<movement arc='(3,1)' entry='6586.663' exit='6647.168'/>
+				<movement arc='(1,0)' entry='6647.168' exit='7736.243'/>
+				<destination entry='7736.243'/>
+			</movements>
+		</train>
+		<train id='C1'>
+			<movements>
+				<movement arc='(0,1)' entry='2310' exit='3390'/>
+				<movement arc='(1,2)' entry='3390' exit='3462'/>
+				<movement arc='(2,4)' entry='3462' exit='6886.663'/>
+				<movement arc='(4,5)' entry='6886.663' exit='6958.663'/>
+				<movement arc='(5,6)' entry='6958.663' exit='8158.663'/>
+				<movement arc='(6,7)' entry='8158.663'/>
+			</movements>
+		</train>
+	</trains>
+</solution>
+###########################################################################

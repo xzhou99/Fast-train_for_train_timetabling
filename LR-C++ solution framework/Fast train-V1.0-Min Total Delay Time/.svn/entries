@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="9"
+   name=""
+   committed-date="2011-03-06T08:45:18.282005Z"
+   url="http://fast-train.googlecode.com/svn/trunk/FastTrain"
+   last-author="xzhou99"
+   kind="dir"
+   uuid="1d70ac0e-52c5-3ff5-b08c-7332a320af8b"
+   repos="http://fast-train.googlecode.com/svn"
+   revision="9"/>
+<entry
+   committed-rev="2"
+   name="FastTrain.suo"
+   text-time="2011-03-05T23:09:47.234375Z"
+   committed-date="2011-02-14T08:52:41.150206Z"
+   checksum="d17e2b3b14ab9fab0e7f6c3652cf282c"
+   last-author="xzhou99"
+   kind="file"
+   prop-time="2011-03-05T23:09:46.734375Z"/>
+<entry
+   committed-rev="4"
+   name="fasttrain.dsp"
+   text-time="2011-03-05T23:09:47.250000Z"
+   committed-date="2011-02-14T22:06:58.893786Z"
+   checksum="cc9e84da7886b0f0f224e47c703666e6"
+   last-author="xzhou99"
+   kind="file"
+   prop-time="2011-03-05T23:09:46.750000Z"/>
+<entry
+   committed-rev="2"
+   name="FastTrain.sln"
+   text-time="2011-03-05T23:09:47.265625Z"
+   committed-date="2011-02-14T08:52:41.150206Z"
+   checksum="36667aabffb6b556d1cc5c07491243c0"
+   last-author="xzhou99"
+   kind="file"
+   prop-time="2011-03-05T23:09:46.765625Z"/>
+<entry
+   committed-rev="4"
+   name="fasttrain.dsw"
+   text-time="2011-03-05T23:09:47.281250Z"
+   committed-date="2011-02-14T22:06:58.893786Z"
+   checksum="85a406bd9d9d3ad3954a6be40f2f0a16"
+   last-author="xzhou99"
+   kind="file"
+   prop-time="2011-03-05T23:09:46.781250Z"/>
+<entry
+   name="FastTrain"
+   kind="dir"/>
+</wc-entries>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="9"
+   name=""
+   committed-date="2011-03-06T08:45:18.282005Z"
+   url="http://fast-train.googlecode.com/svn/trunk/FastTrain/FastTrain"
+   last-author="xzhou99"
+   kind="dir"
+   uuid="1d70ac0e-52c5-3ff5-b08c-7332a320af8b"
+   repos="http://fast-train.googlecode.com/svn"
+   revision="9"/>
+<entry
+   committed-rev="9"
+   name="Network.h"
+   text-time="2011-03-06T10:52:02.531250Z"
+   committed-date="2011-03-06T08:45:18.282005Z"
+   checksum="56da8eb55a024751b2efeb33449ab82c"
+   last-author="xzhou99"
+   kind="file"
+   prop-time="2011-03-06T10:52:02.390625Z"/>
+<entry
+   committed-rev="2"
+   name="stdafx.h"
+   text-time="2011-03-05T23:09:47.062500Z"
+   committed-date="2011-02-14T08:52:41.150206Z"
+   checksum="6d2a99f14199146e21989feee1333a97"
+   last-author="xzhou99"
+   kind="file"
+   prop-time="2011-03-05T23:09:46.843750Z"/>
+<entry
+   committed-rev="7"
+   name="FastTrain.h"
+   text-time="2011-03-05T23:09:47.078125Z"
+   committed-date="2011-03-05T21:34:32.067717Z"
+   checksum="f9c40627a978fdfb87288061b0efc80e"
+   last-author="xzhou99"
+   kind="file"
+   prop-time="2011-03-05T23:09:46.859375Z"/>
+<entry
+   committed-rev="5"
+   name="Utility.cpp"
+   text-time="2011-03-05T23:09:47.078125Z"
+   committed-date="2011-02-21T07:30:49.587017Z"
+   checksum="6c29523b4bd4be60efe659fb470bc2c4"
+   last-author="xzhou99"
+   kind="file"
+   prop-time="2011-03-05T23:09:46.875000Z"/>
+<entry
+   committed-rev="9"
+   name="Timetable.cpp"
+   text-time="2011-03-06T10:52:02.593750Z"
+   committed-date="2011-03-06T08:45:18.282005Z"
+   checksum="9c871dd9d3d73d3bd100ac6ff4bca8b1"
+   last-author="xzhou99"
+   kind="file"
+   prop-time="2011-03-06T10:52:02.437500Z"/>
+<entry
+   committed-rev="9"
+   name="ShortestPath.cpp"
+   text-time="2011-03-06T10:52:02.609375Z"
+   committed-date="2011-03-06T08:45:18.282005Z"
+   checksum="99584f0a9fd3cdc3bf94d87fa5e28a63"
+   last-author="xzhou99"
+   kind="file"
+   prop-time="2011-03-06T10:52:02.468750Z"/>
+<entry
+   committed-rev="2"
+   name="targetver.h"
+   text-time="2011-03-05T23:09:47.156250Z"
+   committed-date="2011-02-14T08:52:41.150206Z"
+   checksum="36b46837ea2707ab54592a16c51d53e9"
+   last-author="xzhou99"
+   kind="file"
+   prop-time="2011-03-05T23:09:46.921875Z"/>
+<entry
+   committed-rev="2"
+   name="stdafx.cpp"
+   text-time="2011-03-05T23:09:47.171875Z"
+   committed-date="2011-02-14T08:52:41.150206Z"
+   checksum="94e75bd56ff0e5357f9edc73de78fd83"
+   last-author="xzhou99"
+   kind="file"
+   prop-time="2011-03-05T23:09:46.937500Z"/>
+<entry
+   committed-rev="9"
+   name="FastTrain.cpp"
+   text-time="2011-03-06T10:52:02.625000Z"
+   committed-date="2011-03-06T08:45:18.282005Z"
+   checksum="8a53dd935b4e2e8b9f35c0034a2c2007"
+   last-author="xzhou99"
+   kind="file"
+   prop-time="2011-03-06T10:52:02.500000Z"/>
+<entry
+   committed-rev="5"
+   name="FastTrain.vcproj"
+   text-time="2011-03-05T23:09:47.203125Z"
+   committed-date="2011-02-21T07:30:49.587017Z"
+   checksum="1793cf4a039a03a00dce0d7e80d6cf3a"
+   last-author="xzhou99"
+   kind="file"
+   prop-time="2011-03-05T23:09:46.984375Z"/>
+</wc-entries>

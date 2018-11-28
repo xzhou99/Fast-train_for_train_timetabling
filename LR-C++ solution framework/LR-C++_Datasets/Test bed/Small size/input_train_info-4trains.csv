@@ -1,0 +1,5 @@
+train ID,origin,destination,Direction,TOB,Length,HazMat,Speed multiplier,Entry time in minutes,Cost per Unit Time Stopped,EarlyDepartureTime,Cost per Unit Time Run,Intended Arrival Time At Destination
+0,0,9,1,75,0.1,0,1,10,1,0,1,38
+1,9,0,2,75,0.1,0,1,20,1,0,1,53
+2,0,9,1,75,0.1,0,1,38,1,0,1,68
+3,9,0,2,75,0.1,0,1,52,1,0,1,77

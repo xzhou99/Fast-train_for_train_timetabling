@@ -1,0 +1,434 @@
+###########################################################################
+<solution territory='RAS DATA SET 3'>
+	<trains>
+			<movements>
+				<movement arc='(0,1)' entry='1080.000' exit='1140.000' entryinminute='18.000' exitinminute='19.000' />
+				<movement arc='(1,3)' entry='1140.000' exit='1260.000' entryinminute='19.000' exitinminute='21.000' />
+				<movement arc='(3,5)' entry='1260.000' exit='1320.000' entryinminute='21.000' exitinminute='22.000' />
+				<movement arc='(5,6)' entry='1320.000' exit='1620.000' entryinminute='22.000' exitinminute='27.000' />
+				<movement arc='(6,83)' entry='1620.000' exit='1920.000' entryinminute='27.000' exitinminute='32.000' />
+				<movement arc='(83,84)' entry='1920.000' exit='2040.000' entryinminute='32.000' exitinminute='34.000' />
+				<movement arc='(84,85)' entry='2040.000' exit='2160.000' entryinminute='34.000' exitinminute='36.000' />
+				<movement arc='(85,86)' entry='2160.000' exit='2280.000' entryinminute='36.000' exitinminute='38.000' />
+				<movement arc='(86,87)' entry='2280.000' exit='2460.000' entryinminute='38.000' exitinminute='41.000' />
+				<movement arc='(87,90)' entry='2460.000' exit='2640.000' entryinminute='41.000' exitinminute='44.000' />
+				<movement arc='(90,91)' entry='2640.000' exit='2700.000' entryinminute='44.000' exitinminute='45.000' />
+				<movement arc='(91,38)' entry='2700.000' exit='3000.000' entryinminute='45.000' exitinminute='50.000' />
+				<movement arc='(38,39)' entry='3000.000' exit='3300.000' entryinminute='50.000' exitinminute='55.000' />
+				<destination entry='55.000'/>
+			</movements>
+		</train>
+			<movements>
+				<movement arc='(0,1)' entry='1500.000' exit='1560.000' entryinminute='25.000' exitinminute='26.000' />
+				<movement arc='(1,3)' entry='1560.000' exit='1740.000' entryinminute='26.000' exitinminute='29.000' />
+				<movement arc='(3,5)' entry='1740.000' exit='1800.000' entryinminute='29.000' exitinminute='30.000' />
+				<movement arc='(5,6)' entry='1800.000' exit='2160.000' entryinminute='30.000' exitinminute='36.000' />
+				<movement arc='(6,83)' entry='2160.000' exit='2520.000' entryinminute='36.000' exitinminute='42.000' />
+				<movement arc='(83,84)' entry='2520.000' exit='2700.000' entryinminute='42.000' exitinminute='45.000' />
+				<movement arc='(84,85)' entry='2700.000' exit='2820.000' entryinminute='45.000' exitinminute='47.000' />
+				<movement arc='(85,86)' entry='2820.000' exit='3000.000' entryinminute='47.000' exitinminute='50.000' />
+				<movement arc='(86,87)' entry='3000.000' exit='3240.000' entryinminute='50.000' exitinminute='54.000' />
+				<movement arc='(87,90)' entry='3240.000' exit='3480.000' entryinminute='54.000' exitinminute='58.000' />
+				<movement arc='(90,91)' entry='3480.000' exit='3600.000' entryinminute='58.000' exitinminute='60.000' />
+				<movement arc='(91,38)' entry='3600.000' exit='3960.000' entryinminute='60.000' exitinminute='66.000' />
+				<movement arc='(38,39)' entry='3960.000' exit='4320.000' entryinminute='66.000' exitinminute='72.000' />
+				<destination entry='72.000'/>
+			</movements>
+		</train>
+			<movements>
+				<movement arc='(0,1)' entry='2040.000' exit='2100.000' entryinminute='34.000' exitinminute='35.000' />
+				<movement arc='(1,3)' entry='2100.000' exit='2280.000' entryinminute='35.000' exitinminute='38.000' />
+				<movement arc='(3,5)' entry='2280.000' exit='2340.000' entryinminute='38.000' exitinminute='39.000' />
+				<movement arc='(5,6)' entry='2340.000' exit='2700.000' entryinminute='39.000' exitinminute='45.000' />
+				<movement arc='(6,83)' entry='2700.000' exit='3060.000' entryinminute='45.000' exitinminute='51.000' />
+				<movement arc='(83,84)' entry='3060.000' exit='3240.000' entryinminute='51.000' exitinminute='54.000' />
+				<movement arc='(84,85)' entry='3240.000' exit='3360.000' entryinminute='54.000' exitinminute='56.000' />
+				<movement arc='(85,86)' entry='3360.000' exit='3540.000' entryinminute='56.000' exitinminute='59.000' />
+				<movement arc='(86,87)' entry='3540.000' exit='3780.000' entryinminute='59.000' exitinminute='63.000' />
+				<movement arc='(87,90)' entry='3780.000' exit='4020.000' entryinminute='63.000' exitinminute='67.000' />
+				<movement arc='(90,91)' entry='4020.000' exit='4140.000' entryinminute='67.000' exitinminute='69.000' />
+				<movement arc='(91,38)' entry='4140.000' exit='4500.000' entryinminute='69.000' exitinminute='75.000' />
+				<movement arc='(38,39)' entry='4500.000' exit='4860.000' entryinminute='75.000' exitinminute='81.000' />
+				<destination entry='81.000'/>
+			</movements>
+		</train>
+			<movements>
+				<movement arc='(0,1)' entry='16680.000' exit='16740.000' entryinminute='278.000' exitinminute='279.000' />
+				<movement arc='(1,3)' entry='16740.000' exit='16980.000' entryinminute='279.000' exitinminute='283.000' />
+				<movement arc='(3,5)' entry='16980.000' exit='17040.000' entryinminute='283.000' exitinminute='284.000' />
+				<movement arc='(5,6)' entry='17040.000' exit='17520.000' entryinminute='284.000' exitinminute='292.000' />
+				<movement arc='(6,83)' entry='17520.000' exit='18000.000' entryinminute='292.000' exitinminute='300.000' />
+				<movement arc='(83,84)' entry='18000.000' exit='18240.000' entryinminute='300.000' exitinminute='304.000' />
+				<movement arc='(84,85)' entry='18240.000' exit='18420.000' entryinminute='304.000' exitinminute='307.000' />
+				<movement arc='(85,20)' entry='18420.000' exit='18900.000' entryinminute='307.000' exitinminute='315.000' />
+				<movement arc='(20,21)' entry='18900.000' exit='19500.000' entryinminute='315.000' exitinminute='325.000' />
+				<movement arc='(21,22)' entry='19500.000' exit='19560.000' entryinminute='325.000' exitinminute='326.000' />
+				<movement arc='(22,25)' entry='19560.000' exit='19800.000' entryinminute='326.000' exitinminute='330.000' />
+				<movement arc='(25,26)' entry='19800.000' exit='19860.000' entryinminute='330.000' exitinminute='331.000' />
+				<movement arc='(26,27)' entry='19860.000' exit='19980.000' entryinminute='331.000' exitinminute='333.000' />
+				<movement arc='(27,28)' entry='19980.000' exit='20040.000' entryinminute='333.000' exitinminute='334.000' />
+				<movement arc='(28,30)' entry='20040.000' exit='20340.000' entryinminute='334.000' exitinminute='339.000' />
+				<movement arc='(30,31)' entry='20340.000' exit='20640.000' entryinminute='339.000' exitinminute='344.000' />
+				<movement arc='(31,32)' entry='20640.000' exit='20700.000' entryinminute='344.000' exitinminute='345.000' />
+				<movement arc='(32,34)' entry='20700.000' exit='20940.000' entryinminute='345.000' exitinminute='349.000' />
+				<movement arc='(34,36)' entry='20940.000' exit='21000.000' entryinminute='349.000' exitinminute='350.000' />
+				<movement arc='(36,37)' entry='21000.000' exit='21300.000' entryinminute='350.000' exitinminute='355.000' />
+				<movement arc='(37,40)' entry='21300.000' exit='21360.000' entryinminute='355.000' exitinminute='356.000' />
+				<movement arc='(40,43)' entry='21360.000' exit='21600.000' entryinminute='356.000' exitinminute='360.000' />
+				<movement arc='(43,45)' entry='21600.000' exit='21900.000' entryinminute='360.000' exitinminute='365.000' />
+				<movement arc='(45,46)' entry='21900.000' exit='22080.000' entryinminute='365.000' exitinminute='368.000' />
+				<movement arc='(46,48)' entry='22080.000' exit='22500.000' entryinminute='368.000' exitinminute='375.000' />
+				<movement arc='(48,54)' entry='22500.000' exit='22920.000' entryinminute='375.000' exitinminute='382.000' />
+				<movement arc='(54,57)' entry='22920.000' exit='22980.000' entryinminute='382.000' exitinminute='383.000' />
+				<movement arc='(57,59)' entry='22980.000' exit='23280.000' entryinminute='383.000' exitinminute='388.000' />
+				<movement arc='(59,61)' entry='23280.000' exit='23580.000' entryinminute='388.000' exitinminute='393.000' />
+				<movement arc='(61,63)' entry='23580.000' exit='23640.000' entryinminute='393.000' exitinminute='394.000' />
+				<movement arc='(63,65)' entry='23640.000' exit='23940.000' entryinminute='394.000' exitinminute='399.000' />
+				<movement arc='(65,67)' entry='23940.000' exit='24240.000' entryinminute='399.000' exitinminute='404.000' />
+				<movement arc='(67,69)' entry='24240.000' exit='24300.000' entryinminute='404.000' exitinminute='405.000' />
+				<movement arc='(69,70)' entry='24300.000' exit='24780.000' entryinminute='405.000' exitinminute='413.000' />
+				<movement arc='(70,71)' entry='24780.000' exit='25260.000' entryinminute='413.000' exitinminute='421.000' />
+				<movement arc='(71,72)' entry='25260.000' exit='25320.000' entryinminute='421.000' exitinminute='422.000' />
+				<movement arc='(72,74)' entry='25320.000' exit='25560.000' entryinminute='422.000' exitinminute='426.000' />
+				<movement arc='(74,76)' entry='25560.000' exit='25620.000' entryinminute='426.000' exitinminute='427.000' />
+				<movement arc='(76,77)' entry='25620.000' exit='26040.000' entryinminute='427.000' exitinminute='434.000' />
+				<movement arc='(77,78)' entry='26040.000' exit='26460.000' entryinminute='434.000' exitinminute='441.000' />
+				<movement arc='(78,79)' entry='26460.000' exit='26520.000' entryinminute='441.000' exitinminute='442.000' />
+				<movement arc='(79,81)' entry='26520.000' exit='26760.000' entryinminute='442.000' exitinminute='446.000' />
+				<movement arc='(81,38)' entry='26760.000' exit='26820.000' entryinminute='446.000' exitinminute='447.000' />
+				<movement arc='(38,39)' entry='26820.000' exit='27300.000' entryinminute='447.000' exitinminute='455.000' />
+				<destination entry='455.000'/>
+			</movements>
+		</train>
+			<movements>
+				<movement arc='(0,1)' entry='15240.000' exit='15300.000' entryinminute='254.000' exitinminute='255.000' />
+				<movement arc='(1,3)' entry='15300.000' exit='15480.000' entryinminute='255.000' exitinminute='258.000' />
+				<movement arc='(3,5)' entry='15480.000' exit='15540.000' entryinminute='258.000' exitinminute='259.000' />
+				<movement arc='(5,6)' entry='15540.000' exit='15960.000' entryinminute='259.000' exitinminute='266.000' />
+				<movement arc='(6,83)' entry='15960.000' exit='16380.000' entryinminute='266.000' exitinminute='273.000' />
+				<movement arc='(83,84)' entry='16380.000' exit='16560.000' entryinminute='273.000' exitinminute='276.000' />
+				<movement arc='(84,85)' entry='16560.000' exit='16740.000' entryinminute='276.000' exitinminute='279.000' />
+				<movement arc='(85,86)' entry='16740.000' exit='16920.000' entryinminute='279.000' exitinminute='282.000' />
+				<movement arc='(86,87)' entry='16920.000' exit='17220.000' entryinminute='282.000' exitinminute='287.000' />
+				<movement arc='(87,90)' entry='17220.000' exit='17520.000' entryinminute='287.000' exitinminute='292.000' />
+				<movement arc='(90,91)' entry='17520.000' exit='17640.000' entryinminute='292.000' exitinminute='294.000' />
+				<movement arc='(91,38)' entry='17640.000' exit='18060.000' entryinminute='294.000' exitinminute='301.000' />
+				<movement arc='(38,39)' entry='18060.000' exit='18480.000' entryinminute='301.000' exitinminute='308.000' />
+				<destination entry='308.000'/>
+			</movements>
+		</train>
+			<movements>
+				<movement arc='(0,1)' entry='42420.000' exit='42480.000' entryinminute='707.000' exitinminute='708.000' />
+				<movement arc='(1,3)' entry='42480.000' exit='42840.000' entryinminute='708.000' exitinminute='714.000' />
+				<movement arc='(3,5)' entry='42840.000' exit='42900.000' entryinminute='714.000' exitinminute='715.000' />
+				<movement arc='(5,6)' entry='42900.000' exit='43680.000' entryinminute='715.000' exitinminute='728.000' />
+				<movement arc='(6,83)' entry='43680.000' exit='44460.000' entryinminute='728.000' exitinminute='741.000' />
+				<movement arc='(83,84)' entry='44460.000' exit='44820.000' entryinminute='741.000' exitinminute='747.000' />
+				<movement arc='(84,85)' entry='44820.000' exit='45060.000' entryinminute='747.000' exitinminute='751.000' />
+				<movement arc='(85,86)' entry='45060.000' exit='45420.000' entryinminute='751.000' exitinminute='757.000' />
+				<movement arc='(86,87)' entry='45420.000' exit='45900.000' entryinminute='757.000' exitinminute='765.000' />
+				<movement arc='(87,90)' entry='45900.000' exit='46380.000' entryinminute='765.000' exitinminute='773.000' />
+				<movement arc='(90,91)' entry='46380.000' exit='46560.000' entryinminute='773.000' exitinminute='776.000' />
+				<movement arc='(91,38)' entry='46560.000' exit='47340.000' entryinminute='776.000' exitinminute='789.000' />
+				<movement arc='(38,39)' entry='47340.000' exit='48120.000' entryinminute='789.000' exitinminute='802.000' />
+				<destination entry='802.000'/>
+			</movements>
+		</train>
+			<movements>
+				<movement arc='(0,1)' entry='35760.000' exit='35820.000' entryinminute='596.000' exitinminute='597.000' />
+				<movement arc='(1,3)' entry='35820.000' exit='35940.000' entryinminute='597.000' exitinminute='599.000' />
+				<movement arc='(3,5)' entry='35940.000' exit='36000.000' entryinminute='599.000' exitinminute='600.000' />
+				<movement arc='(5,6)' entry='36000.000' exit='36240.000' entryinminute='600.000' exitinminute='604.000' />
+				<movement arc='(6,83)' entry='36240.000' exit='36480.000' entryinminute='604.000' exitinminute='608.000' />
+				<movement arc='(83,84)' entry='36480.000' exit='36600.000' entryinminute='608.000' exitinminute='610.000' />
+				<movement arc='(84,85)' entry='36600.000' exit='36720.000' entryinminute='610.000' exitinminute='612.000' />
+				<movement arc='(85,86)' entry='36720.000' exit='36840.000' entryinminute='612.000' exitinminute='614.000' />
+				<movement arc='(86,87)' entry='36840.000' exit='37020.000' entryinminute='614.000' exitinminute='617.000' />
+				<movement arc='(87,90)' entry='37020.000' exit='37200.000' entryinminute='617.000' exitinminute='620.000' />
+				<movement arc='(90,91)' entry='37200.000' exit='37260.000' entryinminute='620.000' exitinminute='621.000' />
+				<movement arc='(91,38)' entry='37260.000' exit='37500.000' entryinminute='621.000' exitinminute='625.000' />
+				<movement arc='(38,39)' entry='37500.000' exit='37740.000' entryinminute='625.000' exitinminute='629.000' />
+				<destination entry='629.000'/>
+			</movements>
+		</train>
+			<movements>
+				<movement arc='(0,1)' entry='36300.000' exit='36360.000' entryinminute='605.000' exitinminute='606.000' />
+				<movement arc='(1,3)' entry='36360.000' exit='36600.000' entryinminute='606.000' exitinminute='610.000' />
+				<movement arc='(3,5)' entry='36600.000' exit='36660.000' entryinminute='610.000' exitinminute='611.000' />
+				<movement arc='(5,6)' entry='36660.000' exit='37200.000' entryinminute='611.000' exitinminute='620.000' />
+				<movement arc='(6,83)' entry='37200.000' exit='37740.000' entryinminute='620.000' exitinminute='629.000' />
+				<movement arc='(83,84)' entry='37740.000' exit='37980.000' entryinminute='629.000' exitinminute='633.000' />
+				<movement arc='(84,85)' entry='37980.000' exit='38160.000' entryinminute='633.000' exitinminute='636.000' />
+				<movement arc='(85,86)' entry='38160.000' exit='38400.000' entryinminute='636.000' exitinminute='640.000' />
+				<movement arc='(86,87)' entry='38400.000' exit='38760.000' entryinminute='640.000' exitinminute='646.000' />
+				<movement arc='(87,90)' entry='38760.000' exit='39120.000' entryinminute='646.000' exitinminute='652.000' />
+				<movement arc='(90,91)' entry='39120.000' exit='39240.000' entryinminute='652.000' exitinminute='654.000' />
+				<movement arc='(91,38)' entry='39240.000' exit='39780.000' entryinminute='654.000' exitinminute='663.000' />
+				<movement arc='(38,39)' entry='39780.000' exit='40320.000' entryinminute='663.000' exitinminute='672.000' />
+				<destination entry='672.000'/>
+			</movements>
+		</train>
+			<movements>
+				<movement arc='(0,1)' entry='38040.000' exit='38100.000' entryinminute='634.000' exitinminute='635.000' />
+				<movement arc='(1,3)' entry='38100.000' exit='38280.000' entryinminute='635.000' exitinminute='638.000' />
+				<movement arc='(3,5)' entry='38280.000' exit='38340.000' entryinminute='638.000' exitinminute='639.000' />
+				<movement arc='(5,6)' entry='38340.000' exit='38700.000' entryinminute='639.000' exitinminute='645.000' />
+				<movement arc='(6,83)' entry='38700.000' exit='39060.000' entryinminute='645.000' exitinminute='651.000' />
+				<movement arc='(83,84)' entry='39060.000' exit='39240.000' entryinminute='651.000' exitinminute='654.000' />
+				<movement arc='(84,85)' entry='39240.000' exit='39360.000' entryinminute='654.000' exitinminute='656.000' />
+				<movement arc='(85,86)' entry='39360.000' exit='39540.000' entryinminute='656.000' exitinminute='659.000' />
+				<movement arc='(86,87)' entry='39540.000' exit='39780.000' entryinminute='659.000' exitinminute='663.000' />
+				<movement arc='(87,90)' entry='39780.000' exit='40020.000' entryinminute='663.000' exitinminute='667.000' />
+				<movement arc='(90,91)' entry='40020.000' exit='40140.000' entryinminute='667.000' exitinminute='669.000' />
+				<movement arc='(91,38)' entry='40140.000' exit='40500.000' entryinminute='669.000' exitinminute='675.000' />
+				<movement arc='(38,39)' entry='40500.000' exit='40860.000' entryinminute='675.000' exitinminute='681.000' />
+				<destination entry='681.000'/>
+			</movements>
+		</train>
+			<movements>
+				<movement arc='(20,21)' entry='4080.000' exit='4380.000' entryinminute='68.000' exitinminute='73.000' />
+				<movement arc='(21,22)' entry='4380.000' exit='4440.000' entryinminute='73.000' exitinminute='74.000' />
+				<movement arc='(22,25)' entry='4440.000' exit='4560.000' entryinminute='74.000' exitinminute='76.000' />
+				<movement arc='(25,26)' entry='4560.000' exit='4620.000' entryinminute='76.000' exitinminute='77.000' />
+				<movement arc='(26,27)' entry='4620.000' exit='4680.000' entryinminute='77.000' exitinminute='78.000' />
+				<movement arc='(27,28)' entry='4680.000' exit='4740.000' entryinminute='78.000' exitinminute='79.000' />
+				<movement arc='(28,30)' entry='4740.000' exit='4920.000' entryinminute='79.000' exitinminute='82.000' />
+				<movement arc='(30,31)' entry='4920.000' exit='5100.000' entryinminute='82.000' exitinminute='85.000' />
+				<movement arc='(31,32)' entry='5100.000' exit='5160.000' entryinminute='85.000' exitinminute='86.000' />
+				<movement arc='(32,34)' entry='5160.000' exit='5280.000' entryinminute='86.000' exitinminute='88.000' />
+				<movement arc='(34,36)' entry='5280.000' exit='5340.000' entryinminute='88.000' exitinminute='89.000' />
+				<movement arc='(36,37)' entry='5340.000' exit='5520.000' entryinminute='89.000' exitinminute='92.000' />
+				<movement arc='(37,40)' entry='5520.000' exit='5580.000' entryinminute='92.000' exitinminute='93.000' />
+				<movement arc='(40,43)' entry='5580.000' exit='5700.000' entryinminute='93.000' exitinminute='95.000' />
+				<movement arc='(43,45)' entry='5700.000' exit='5880.000' entryinminute='95.000' exitinminute='98.000' />
+				<movement arc='(45,46)' entry='5880.000' exit='6000.000' entryinminute='98.000' exitinminute='100.000' />
+				<movement arc='(46,48)' entry='6000.000' exit='6240.000' entryinminute='100.000' exitinminute='104.000' />
+				<movement arc='(48,54)' entry='6240.000' exit='6480.000' entryinminute='104.000' exitinminute='108.000' />
+				<movement arc='(54,57)' entry='6480.000' exit='6540.000' entryinminute='108.000' exitinminute='109.000' />
+				<movement arc='(57,59)' entry='6540.000' exit='6720.000' entryinminute='109.000' exitinminute='112.000' />
+				<movement arc='(59,61)' entry='6720.000' exit='6900.000' entryinminute='112.000' exitinminute='115.000' />
+				<movement arc='(61,63)' entry='6900.000' exit='6960.000' entryinminute='115.000' exitinminute='116.000' />
+				<movement arc='(63,65)' entry='6960.000' exit='7140.000' entryinminute='116.000' exitinminute='119.000' />
+				<movement arc='(65,67)' entry='7140.000' exit='7320.000' entryinminute='119.000' exitinminute='122.000' />
+				<movement arc='(67,69)' entry='7320.000' exit='7380.000' entryinminute='122.000' exitinminute='123.000' />
+				<movement arc='(69,70)' entry='7380.000' exit='7620.000' entryinminute='123.000' exitinminute='127.000' />
+				<movement arc='(70,71)' entry='7620.000' exit='7860.000' entryinminute='127.000' exitinminute='131.000' />
+				<movement arc='(71,72)' entry='7860.000' exit='7920.000' entryinminute='131.000' exitinminute='132.000' />
+				<movement arc='(72,74)' entry='7920.000' exit='8040.000' entryinminute='132.000' exitinminute='134.000' />
+				<movement arc='(74,76)' entry='8040.000' exit='8100.000' entryinminute='134.000' exitinminute='135.000' />
+				<movement arc='(76,77)' entry='8100.000' exit='8340.000' entryinminute='135.000' exitinminute='139.000' />
+				<movement arc='(77,78)' entry='8340.000' exit='8580.000' entryinminute='139.000' exitinminute='143.000' />
+				<movement arc='(78,79)' entry='8580.000' exit='8640.000' entryinminute='143.000' exitinminute='144.000' />
+				<movement arc='(79,81)' entry='8640.000' exit='8760.000' entryinminute='144.000' exitinminute='146.000' />
+				<movement arc='(81,38)' entry='8760.000' exit='8820.000' entryinminute='146.000' exitinminute='147.000' />
+				<movement arc='(38,39)' entry='8820.000' exit='9060.000' entryinminute='147.000' exitinminute='151.000' />
+				<destination entry='151.000'/>
+			</movements>
+		</train>
+			<movements>
+				<movement arc='(40,43)' entry='1680.000' exit='1800.000' entryinminute='28.000' exitinminute='30.000' />
+				<movement arc='(43,45)' entry='1800.000' exit='1980.000' entryinminute='30.000' exitinminute='33.000' />
+				<movement arc='(45,46)' entry='1980.000' exit='2100.000' entryinminute='33.000' exitinminute='35.000' />
+				<movement arc='(46,48)' entry='2100.000' exit='2340.000' entryinminute='35.000' exitinminute='39.000' />
+				<movement arc='(48,54)' entry='2340.000' exit='2580.000' entryinminute='39.000' exitinminute='43.000' />
+				<movement arc='(54,57)' entry='2580.000' exit='2640.000' entryinminute='43.000' exitinminute='44.000' />
+				<movement arc='(57,59)' entry='2640.000' exit='2820.000' entryinminute='44.000' exitinminute='47.000' />
+				<movement arc='(59,61)' entry='2820.000' exit='3000.000' entryinminute='47.000' exitinminute='50.000' />
+				<movement arc='(61,63)' entry='3000.000' exit='3060.000' entryinminute='50.000' exitinminute='51.000' />
+				<movement arc='(63,65)' entry='3060.000' exit='3240.000' entryinminute='51.000' exitinminute='54.000' />
+				<movement arc='(65,67)' entry='3240.000' exit='3420.000' entryinminute='54.000' exitinminute='57.000' />
+				<movement arc='(67,69)' entry='3420.000' exit='3480.000' entryinminute='57.000' exitinminute='58.000' />
+				<movement arc='(69,70)' entry='3480.000' exit='3780.000' entryinminute='58.000' exitinminute='63.000' />
+				<movement arc='(70,71)' entry='3780.000' exit='4080.000' entryinminute='63.000' exitinminute='68.000' />
+				<movement arc='(71,72)' entry='4080.000' exit='4140.000' entryinminute='68.000' exitinminute='69.000' />
+				<movement arc='(72,74)' entry='4140.000' exit='4260.000' entryinminute='69.000' exitinminute='71.000' />
+				<movement arc='(74,76)' entry='4260.000' exit='4320.000' entryinminute='71.000' exitinminute='72.000' />
+				<movement arc='(76,77)' entry='4320.000' exit='4560.000' entryinminute='72.000' exitinminute='76.000' />
+				<movement arc='(77,78)' entry='4560.000' exit='4800.000' entryinminute='76.000' exitinminute='80.000' />
+				<movement arc='(78,79)' entry='4800.000' exit='4860.000' entryinminute='80.000' exitinminute='81.000' />
+				<movement arc='(79,81)' entry='4860.000' exit='4980.000' entryinminute='81.000' exitinminute='83.000' />
+				<movement arc='(81,38)' entry='4980.000' exit='5040.000' entryinminute='83.000' exitinminute='84.000' />
+				<movement arc='(38,39)' entry='5040.000' exit='5340.000' entryinminute='84.000' exitinminute='89.000' />
+				<destination entry='89.000'/>
+			</movements>
+		</train>
+			<movements>
+				<movement arc='(39,38)' entry='660.000' exit='1260.000' entryinminute='11.000' exitinminute='21.000' />
+				<movement arc='(38,91)' entry='1260.000' exit='1800.000' entryinminute='21.000' exitinminute='30.000' />
+				<movement arc='(91,89)' entry='1800.000' exit='1980.000' entryinminute='30.000' exitinminute='33.000' />
+				<movement arc='(89,88)' entry='1980.000' exit='4740.000' entryinminute='33.000' exitinminute='79.000' />
+				<movement arc='(88,87)' entry='4740.000' exit='4860.000' entryinminute='79.000' exitinminute='81.000' />
+				<movement arc='(87,86)' entry='4860.000' exit='5220.000' entryinminute='81.000' exitinminute='87.000' />
+				<movement arc='(86,85)' entry='5220.000' exit='5460.000' entryinminute='87.000' exitinminute='91.000' />
+				<movement arc='(85,84)' entry='5460.000' exit='5640.000' entryinminute='91.000' exitinminute='94.000' />
+				<movement arc='(84,83)' entry='5640.000' exit='5880.000' entryinminute='94.000' exitinminute='98.000' />
+				<movement arc='(83,6)' entry='5880.000' exit='6420.000' entryinminute='98.000' exitinminute='107.000' />
+				<movement arc='(6,5)' entry='6420.000' exit='7020.000' entryinminute='107.000' exitinminute='117.000' />
+				<movement arc='(5,3)' entry='7020.000' exit='7080.000' entryinminute='117.000' exitinminute='118.000' />
+				<movement arc='(3,1)' entry='7080.000' exit='7320.000' entryinminute='118.000' exitinminute='122.000' />
+				<movement arc='(1,0)' entry='7320.000' exit='7380.000' entryinminute='122.000' exitinminute='123.000' />
+				<destination entry='123.000'/>
+			</movements>
+		</train>
+			<movements>
+				<movement arc='(39,38)' entry='7560.000' exit='8640.000' entryinminute='126.000' exitinminute='144.000' />
+				<movement arc='(38,91)' entry='8640.000' exit='9600.000' entryinminute='144.000' exitinminute='160.000' />
+				<movement arc='(91,90)' entry='9600.000' exit='9840.000' entryinminute='160.000' exitinminute='164.000' />
+				<movement arc='(90,87)' entry='9840.000' exit='10440.000' entryinminute='164.000' exitinminute='174.000' />
+				<movement arc='(87,86)' entry='10440.000' exit='11040.000' entryinminute='174.000' exitinminute='184.000' />
+				<movement arc='(86,85)' entry='11040.000' exit='11460.000' entryinminute='184.000' exitinminute='191.000' />
+				<movement arc='(85,84)' entry='11460.000' exit='11760.000' entryinminute='191.000' exitinminute='196.000' />
+				<movement arc='(84,83)' entry='11760.000' exit='12180.000' entryinminute='196.000' exitinminute='203.000' />
+				<movement arc='(83,6)' entry='12180.000' exit='13140.000' entryinminute='203.000' exitinminute='219.000' />
+				<movement arc='(6,5)' entry='13140.000' exit='14220.000' entryinminute='219.000' exitinminute='237.000' />
+				<movement arc='(5,3)' entry='14220.000' exit='14340.000' entryinminute='237.000' exitinminute='239.000' />
+				<movement arc='(3,1)' entry='14340.000' exit='14760.000' entryinminute='239.000' exitinminute='246.000' />
+				<movement arc='(1,0)' entry='14760.000' exit='14880.000' entryinminute='246.000' exitinminute='248.000' />
+				<destination entry='248.000'/>
+			</movements>
+		</train>
+			<movements>
+				<movement arc='(39,38)' entry='18780.000' exit='19080.000' entryinminute='313.000' exitinminute='318.000' />
+				<movement arc='(38,91)' entry='19080.000' exit='19320.000' entryinminute='318.000' exitinminute='322.000' />
+				<movement arc='(91,90)' entry='19320.000' exit='19380.000' entryinminute='322.000' exitinminute='323.000' />
+				<movement arc='(90,87)' entry='19380.000' exit='19560.000' entryinminute='323.000' exitinminute='326.000' />
+				<movement arc='(87,86)' entry='19560.000' exit='19740.000' entryinminute='326.000' exitinminute='329.000' />
+				<movement arc='(86,85)' entry='19740.000' exit='19860.000' entryinminute='329.000' exitinminute='331.000' />
+				<movement arc='(85,84)' entry='19860.000' exit='19980.000' entryinminute='331.000' exitinminute='333.000' />
+				<movement arc='(84,83)' entry='19980.000' exit='20100.000' entryinminute='333.000' exitinminute='335.000' />
+				<movement arc='(83,6)' entry='20100.000' exit='20340.000' entryinminute='335.000' exitinminute='339.000' />
+				<movement arc='(6,5)' entry='20340.000' exit='20640.000' entryinminute='339.000' exitinminute='344.000' />
+				<movement arc='(5,3)' entry='20640.000' exit='20700.000' entryinminute='344.000' exitinminute='345.000' />
+				<movement arc='(3,1)' entry='20700.000' exit='20820.000' entryinminute='345.000' exitinminute='347.000' />
+				<movement arc='(1,0)' entry='20820.000' exit='20880.000' entryinminute='347.000' exitinminute='348.000' />
+				<destination entry='348.000'/>
+			</movements>
+		</train>
+			<movements>
+				<movement arc='(39,38)' entry='26040.000' exit='26400.000' entryinminute='434.000' exitinminute='440.000' />
+				<movement arc='(38,91)' entry='26400.000' exit='26700.000' entryinminute='440.000' exitinminute='445.000' />
+				<movement arc='(91,90)' entry='26700.000' exit='26760.000' entryinminute='445.000' exitinminute='446.000' />
+				<movement arc='(90,87)' entry='26760.000' exit='26940.000' entryinminute='446.000' exitinminute='449.000' />
+				<movement arc='(87,86)' entry='26940.000' exit='27120.000' entryinminute='449.000' exitinminute='452.000' />
+				<movement arc='(86,85)' entry='27120.000' exit='27240.000' entryinminute='452.000' exitinminute='454.000' />
+				<movement arc='(85,84)' entry='27240.000' exit='27360.000' entryinminute='454.000' exitinminute='456.000' />
+				<movement arc='(84,83)' entry='27360.000' exit='27480.000' entryinminute='456.000' exitinminute='458.000' />
+				<movement arc='(83,6)' entry='27480.000' exit='27780.000' entryinminute='458.000' exitinminute='463.000' />
+				<movement arc='(6,5)' entry='27780.000' exit='28140.000' entryinminute='463.000' exitinminute='469.000' />
+				<movement arc='(5,3)' entry='28140.000' exit='28200.000' entryinminute='469.000' exitinminute='470.000' />
+				<movement arc='(3,1)' entry='28200.000' exit='28380.000' entryinminute='470.000' exitinminute='473.000' />
+				<movement arc='(1,0)' entry='28380.000' exit='28440.000' entryinminute='473.000' exitinminute='474.000' />
+				<destination entry='474.000'/>
+			</movements>
+		</train>
+			<movements>
+				<movement arc='(39,38)' entry='29700.000' exit='30120.000' entryinminute='495.000' exitinminute='502.000' />
+				<movement arc='(38,91)' entry='30120.000' exit='30480.000' entryinminute='502.000' exitinminute='508.000' />
+				<movement arc='(91,90)' entry='30480.000' exit='30600.000' entryinminute='508.000' exitinminute='510.000' />
+				<movement arc='(90,87)' entry='30600.000' exit='30840.000' entryinminute='510.000' exitinminute='514.000' />
+				<movement arc='(87,86)' entry='30840.000' exit='31080.000' entryinminute='514.000' exitinminute='518.000' />
+				<movement arc='(86,85)' entry='31080.000' exit='31260.000' entryinminute='518.000' exitinminute='521.000' />
+				<movement arc='(85,84)' entry='31260.000' exit='31380.000' entryinminute='521.000' exitinminute='523.000' />
+				<movement arc='(84,83)' entry='31380.000' exit='31560.000' entryinminute='523.000' exitinminute='526.000' />
+				<movement arc='(83,6)' entry='31560.000' exit='31920.000' entryinminute='526.000' exitinminute='532.000' />
+				<movement arc='(6,5)' entry='31920.000' exit='32340.000' entryinminute='532.000' exitinminute='539.000' />
+				<movement arc='(5,3)' entry='32340.000' exit='32400.000' entryinminute='539.000' exitinminute='540.000' />
+				<movement arc='(3,1)' entry='32400.000' exit='32580.000' entryinminute='540.000' exitinminute='543.000' />
+				<movement arc='(1,0)' entry='32580.000' exit='32640.000' entryinminute='543.000' exitinminute='544.000' />
+				<destination entry='544.000'/>
+			</movements>
+		</train>
+			<movements>
+				<movement arc='(39,38)' entry='33360.000' exit='33660.000' entryinminute='556.000' exitinminute='561.000' />
+				<movement arc='(38,91)' entry='33660.000' exit='33900.000' entryinminute='561.000' exitinminute='565.000' />
+				<movement arc='(91,90)' entry='33900.000' exit='33960.000' entryinminute='565.000' exitinminute='566.000' />
+				<movement arc='(90,87)' entry='33960.000' exit='34140.000' entryinminute='566.000' exitinminute='569.000' />
+				<movement arc='(87,86)' entry='34140.000' exit='34320.000' entryinminute='569.000' exitinminute='572.000' />
+				<movement arc='(86,85)' entry='34320.000' exit='34440.000' entryinminute='572.000' exitinminute='574.000' />
+				<movement arc='(85,84)' entry='34440.000' exit='34560.000' entryinminute='574.000' exitinminute='576.000' />
+				<movement arc='(84,83)' entry='34560.000' exit='34680.000' entryinminute='576.000' exitinminute='578.000' />
+				<movement arc='(83,6)' entry='34680.000' exit='34920.000' entryinminute='578.000' exitinminute='582.000' />
+				<movement arc='(6,5)' entry='34920.000' exit='35220.000' entryinminute='582.000' exitinminute='587.000' />
+				<movement arc='(5,3)' entry='35220.000' exit='35280.000' entryinminute='587.000' exitinminute='588.000' />
+				<movement arc='(3,1)' entry='35280.000' exit='35400.000' entryinminute='588.000' exitinminute='590.000' />
+				<movement arc='(1,0)' entry='35400.000' exit='35460.000' entryinminute='590.000' exitinminute='591.000' />
+				<destination entry='591.000'/>
+			</movements>
+		</train>
+			<movements>
+				<movement arc='(59,57)' entry='1020.000' exit='1200.000' entryinminute='17.000' exitinminute='20.000' />
+				<movement arc='(57,54)' entry='1200.000' exit='1260.000' entryinminute='20.000' exitinminute='21.000' />
+				<movement arc='(54,48)' entry='1260.000' exit='1500.000' entryinminute='21.000' exitinminute='25.000' />
+				<movement arc='(48,46)' entry='1500.000' exit='1740.000' entryinminute='25.000' exitinminute='29.000' />
+				<movement arc='(46,44)' entry='1740.000' exit='1800.000' entryinminute='29.000' exitinminute='30.000' />
+				<movement arc='(44,42)' entry='1800.000' exit='1980.000' entryinminute='30.000' exitinminute='33.000' />
+				<movement arc='(42,41)' entry='1980.000' exit='2100.000' entryinminute='33.000' exitinminute='35.000' />
+				<movement arc='(41,37)' entry='2100.000' exit='2220.000' entryinminute='35.000' exitinminute='37.000' />
+				<movement arc='(37,36)' entry='2220.000' exit='2400.000' entryinminute='37.000' exitinminute='40.000' />
+				<movement arc='(36,34)' entry='2400.000' exit='2460.000' entryinminute='40.000' exitinminute='41.000' />
+				<movement arc='(34,32)' entry='2460.000' exit='2580.000' entryinminute='41.000' exitinminute='43.000' />
+				<movement arc='(32,31)' entry='2580.000' exit='2640.000' entryinminute='43.000' exitinminute='44.000' />
+				<movement arc='(31,30)' entry='2640.000' exit='2820.000' entryinminute='44.000' exitinminute='47.000' />
+				<movement arc='(30,28)' entry='2820.000' exit='3000.000' entryinminute='47.000' exitinminute='50.000' />
+				<movement arc='(28,27)' entry='3000.000' exit='3060.000' entryinminute='50.000' exitinminute='51.000' />
+				<movement arc='(27,26)' entry='3060.000' exit='3120.000' entryinminute='51.000' exitinminute='52.000' />
+				<movement arc='(26,25)' entry='3120.000' exit='3180.000' entryinminute='52.000' exitinminute='53.000' />
+				<movement arc='(25,22)' entry='3180.000' exit='3300.000' entryinminute='53.000' exitinminute='55.000' />
+				<movement arc='(22,21)' entry='3300.000' exit='3360.000' entryinminute='55.000' exitinminute='56.000' />
+				<movement arc='(21,20)' entry='3360.000' exit='3720.000' entryinminute='56.000' exitinminute='62.000' />
+				<movement arc='(20,19)' entry='3720.000' exit='4020.000' entryinminute='62.000' exitinminute='67.000' />
+				<movement arc='(19,17)' entry='4020.000' exit='4080.000' entryinminute='67.000' exitinminute='68.000' />
+				<movement arc='(17,15)' entry='4080.000' exit='4200.000' entryinminute='68.000' exitinminute='70.000' />
+				<movement arc='(15,14)' entry='4200.000' exit='4260.000' entryinminute='70.000' exitinminute='71.000' />
+				<movement arc='(14,13)' entry='4260.000' exit='4560.000' entryinminute='71.000' exitinminute='76.000' />
+				<movement arc='(13,12)' entry='4560.000' exit='4860.000' entryinminute='76.000' exitinminute='81.000' />
+				<movement arc='(12,10)' entry='4860.000' exit='4920.000' entryinminute='81.000' exitinminute='82.000' />
+				<movement arc='(10,8)' entry='4920.000' exit='5040.000' entryinminute='82.000' exitinminute='84.000' />
+				<movement arc='(8,7)' entry='5040.000' exit='5100.000' entryinminute='84.000' exitinminute='85.000' />
+				<movement arc='(7,6)' entry='5100.000' exit='5340.000' entryinminute='85.000' exitinminute='89.000' />
+				<movement arc='(6,5)' entry='5340.000' exit='5640.000' entryinminute='89.000' exitinminute='94.000' />
+				<movement arc='(5,3)' entry='5640.000' exit='5700.000' entryinminute='94.000' exitinminute='95.000' />
+				<movement arc='(3,1)' entry='5700.000' exit='5820.000' entryinminute='95.000' exitinminute='97.000' />
+				<movement arc='(1,0)' entry='5820.000' exit='5880.000' entryinminute='97.000' exitinminute='98.000' />
+				<destination entry='98.000'/>
+			</movements>
+		</train>
+			<movements>
+				<movement arc='(33,31)' entry='1680.000' exit='1800.000' entryinminute='28.000' exitinminute='30.000' />
+				<movement arc='(31,30)' entry='1800.000' exit='2040.000' entryinminute='30.000' exitinminute='34.000' />
+				<movement arc='(30,28)' entry='2040.000' exit='2280.000' entryinminute='34.000' exitinminute='38.000' />
+				<movement arc='(28,27)' entry='2280.000' exit='2340.000' entryinminute='38.000' exitinminute='39.000' />
+				<movement arc='(27,26)' entry='2340.000' exit='2460.000' entryinminute='39.000' exitinminute='41.000' />
+				<movement arc='(26,25)' entry='2460.000' exit='2520.000' entryinminute='41.000' exitinminute='42.000' />
+				<movement arc='(25,22)' entry='2520.000' exit='2700.000' entryinminute='42.000' exitinminute='45.000' />
+				<movement arc='(22,21)' entry='2700.000' exit='2760.000' entryinminute='45.000' exitinminute='46.000' />
+				<movement arc='(21,20)' entry='2760.000' exit='3180.000' entryinminute='46.000' exitinminute='53.000' />
+				<movement arc='(20,85)' entry='3180.000' exit='3540.000' entryinminute='53.000' exitinminute='59.000' />
+				<movement arc='(85,84)' entry='3540.000' exit='3660.000' entryinminute='59.000' exitinminute='61.000' />
+				<movement arc='(84,83)' entry='3660.000' exit='3840.000' entryinminute='61.000' exitinminute='64.000' />
+				<movement arc='(83,6)' entry='3840.000' exit='4200.000' entryinminute='64.000' exitinminute='70.000' />
+				<movement arc='(6,5)' entry='4200.000' exit='4560.000' entryinminute='70.000' exitinminute='76.000' />
+				<movement arc='(5,3)' entry='4560.000' exit='4620.000' entryinminute='76.000' exitinminute='77.000' />
+				<movement arc='(3,1)' entry='4620.000' exit='4800.000' entryinminute='77.000' exitinminute='80.000' />
+				<movement arc='(1,0)' entry='4800.000' exit='4860.000' entryinminute='80.000' exitinminute='81.000' />
+				<destination entry='81.000'/>
+			</movements>
+		</train>
+			<movements>
+				<movement arc='(16,14)' entry='1680.000' exit='1800.000' entryinminute='28.000' exitinminute='30.000' />
+				<movement arc='(14,13)' entry='1800.000' exit='2100.000' entryinminute='30.000' exitinminute='35.000' />
+				<movement arc='(13,12)' entry='2100.000' exit='2400.000' entryinminute='35.000' exitinminute='40.000' />
+				<movement arc='(12,10)' entry='2400.000' exit='2460.000' entryinminute='40.000' exitinminute='41.000' />
+				<movement arc='(10,8)' entry='2460.000' exit='2580.000' entryinminute='41.000' exitinminute='43.000' />
+				<movement arc='(8,7)' entry='2580.000' exit='2640.000' entryinminute='43.000' exitinminute='44.000' />
+				<movement arc='(7,6)' entry='2640.000' exit='2880.000' entryinminute='44.000' exitinminute='48.000' />
+				<movement arc='(6,5)' entry='2880.000' exit='3180.000' entryinminute='48.000' exitinminute='53.000' />
+				<movement arc='(5,3)' entry='3180.000' exit='3240.000' entryinminute='53.000' exitinminute='54.000' />
+				<movement arc='(3,1)' entry='3240.000' exit='3360.000' entryinminute='54.000' exitinminute='56.000' />
+				<movement arc='(1,0)' entry='3360.000' exit='3420.000' entryinminute='56.000' exitinminute='57.000' />
+				<destination entry='57.000'/>
+			</movements>
+		</train>
+	<trains>
+<solution>
+###########################################################################
